@@ -1,0 +1,26 @@
+{
+  "name": "jao",
+  "version": "1.0.0",
+  "description": "Just an object, seriously, that's all this is",
+  "main": "index.js",
+  "module": "module.mjs",
+  "files": ["index.js", "module.mjs"],
+  "scripts": {
+    "test": "node --experimental-modules test.mjs && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doesdev/jao.git"
+  },
+  "keywords": [
+    "object",
+    "state",
+    "shared"
+  ],
+  "author": "Andrew Carpenter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doesdev/jao/issues"
+  },
+  "homepage": "https://github.com/doesdev/jao#readme"
+}
