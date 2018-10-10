@@ -4,7 +4,7 @@
 
 ### Why
 
-I keep seeing modules popping up that claim the be the simplest way to manage
+I keep seeing modules popping up that claim to be the simplest way to manage
 state. Personally I find none simpler than this.
 
 ### Install
